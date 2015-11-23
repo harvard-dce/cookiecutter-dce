@@ -1,0 +1,12 @@
+{
+    "full_name": "nmaekawa",
+    "email": "nmaekawa@g.harvard.edu",
+    "github_username": "nmaekawa",
+    "project_name": "python_ca",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_short_description": "python mh rest api client for capture agents",
+    "release_date": "2015-11-23",
+    "pypi_username": "{{ cookiecutter.github_username }}",
+    "year": "2015",
+    "version": "0.1.0",
+}
