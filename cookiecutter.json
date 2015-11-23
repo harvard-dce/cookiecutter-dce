@@ -8,5 +8,5 @@
     "release_date": "2015-11-23",
     "pypi_username": "{{ cookiecutter.github_username }}",
     "year": "2015",
-    "version": "0.1.0",
+    "version": "0.1.0"
 }
