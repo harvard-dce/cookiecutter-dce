@@ -1,9 +1,6 @@
 cookiecutter-dce
 ======================
 
-.. image:: https://img.shields.io/travis/audreyr/cookiecutter-pypackage.svg
-   :target: https://travis-ci.org/audreyr/cookiecutter-pypackage
-
 cookiecutter template for a DCE Python package. See https://github.com/audreyr/cookiecutter.
 Based on https://github.com/audreyr/cookiecutter-pypackage
 
