@@ -56,8 +56,8 @@ setup(
         'Programming Language :: Python :: 2.7'
     ],
     install_requires=requirements,
-    tests_require=test_requirements
-    zip_safe=False,
+    tests_require=test_requirements,
+    zip_safe=False
 )
 
 
