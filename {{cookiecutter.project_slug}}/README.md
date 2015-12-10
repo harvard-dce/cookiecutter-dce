@@ -3,20 +3,50 @@
 
 {{ cookiecutter.project_short_description}}
 
-* Free software: Apache 2.0 license
+this software shoud be considered alpha, therefore likely to change/break in the near future.
 
-Features
---------
 
-* TODO
+install or requirements
+--------------------
 
-Credits
+* this and that
+
+
+
+example usage
+-------------
+
+    import the module
+    and use it wisely!
+
+
+
+
+credits
 ---------
 
 Tools used in rendering this package:
 
-*  Cookiecutter_
-*  `cookiecutter-pypackage`_
+* [Cookiecutter][cookiecutter]
+* [cookiecutter-dce package template][dce-pypackage]
 
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+
+license
+-------
+
+{{ cookiecutter.project_name }} is licensed under the Apache 2.0 license
+
+
+
+copyright
+---------
+
+2015~2016 President and Fellows of Harvard College
+
+[cookiecutter]: https://github.com/audreyr/cookiecutter
+[dce-pypackage]: https://github.com/harvard-dce/cookiecutter-dce
+
+
+
+
